@@ -8,3 +8,5 @@ A one-page logistics company landing site built using
 - Responsive design
 - Smooth scroll navigation
 - Clean layout
+
+![Website screenshot] (images/screenshot.png)
