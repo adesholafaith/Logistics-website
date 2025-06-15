@@ -1,0 +1,14 @@
+{
+  "name": "logistics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "npx sass sass/main.scss css/styles.css -w"
+  },
+  "author": "AYYY",
+  "license": "ISC",
+  "description": "Portfolio page for SwiftX",
+  "devDependencies": {
+    "sass": "^1.89.1"
+  }
+}
